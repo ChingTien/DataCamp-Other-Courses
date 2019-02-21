@@ -1,4 +1,4 @@
-# Optional Courses
+# Other Courses
 <br>
 
 ## Network Analysis in Python (Part 2)
@@ -8,6 +8,15 @@
 - [ ] Tying it up!
 <br>
 
+
+## Machine Learning with the Experts: School Budgets
+Exploring the raw data
+Creating a simple first model
+Improving your model
+Learning from the experts
+
+
+
 ## Introduction to Git for Data Science
 - [ ] Basic workflow
 - [ ] Repositories
@@ -15,6 +24,27 @@
 - [ ] Working with branches
 - [ ] Collaborating
 <br>
+
+## Object-Oriented Programming in Python
+Getting ready for object-oriented programming
+Deep dive into classes and objects
+Fancy classes, fancy objects
+Inheritance, polymorphism and composition
+
+## Web Scraping with Python
+Introduction to HTML
+XPaths and Selectors
+CSS Locators, Chaining, and Responses
+Spiders
+
+## Introduction to Time Series Analysis in Python
+Correlation and Autocorrelation
+Some Simple Time Series
+Autoregressive (AR) Models
+Moving Average (MA) and ARMA Models
+Putting It All Together
+
+
 
 ## Introduction to PySpark
 Getting to know PySpark
@@ -30,7 +60,7 @@ PySpark SQL & DataFrames
 Machine Learning with PySpark MLlib
 
 
-# More SQL Courses
+# SQL Courses
 <br>
 
 ## Introduction to Relational Databases in SQL
