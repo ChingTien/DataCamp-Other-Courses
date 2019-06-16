@@ -8,15 +8,6 @@
 - [ ] Tying it up!
 <br>
 
-
-## Machine Learning with the Experts: School Budgets
-Exploring the raw data
-Creating a simple first model
-Improving your model
-Learning from the experts
-
-
-
 ## Introduction to Git for Data Science
 - [ ] Basic workflow
 - [ ] Repositories
@@ -25,40 +16,70 @@ Learning from the experts
 - [ ] Collaborating
 <br>
 
+## Analyzing Police Activity with pandas
+- [ ] Preparing the data for analysis
+- [ ] Exploring the relationship between gender and policing
+- [ ] Visual exploratory data analysis
+- [ ] Analyzing the effect of weather on policing
+<br>
+
+## Introduction to Relational Databases in SQL
+- [ ] Your first database
+- [ ] Enforce data consistency with attribute constraints
+- [ ] Uniquely identify records with key constraints
+- [ ] Glue together tables with foreign keys
+<br>
+
+## Introduction to Shell for Data Science
+- [ ] Manipulating files and directories
+- [ ] Manipulating data
+- [ ] Combining tools
+- [ ] Batch processing
+- [ ] Creating new tools
+<br>
+
+## Conda Essentials
+- [ ] Installing Packages
+- [ ] Utilizing Channels
+- [ ] Working with Environments
+- [ ] Case Study on Using Environments
+<br>
+
 ## Object-Oriented Programming in Python
-Getting ready for object-oriented programming
-Deep dive into classes and objects
-Fancy classes, fancy objects
-Inheritance, polymorphism and composition
+- [ ] Getting ready for object-oriented programming
+- [ ] Deep dive into classes and objects
+- [ ] Fancy classes, fancy objects
+- [ ] Inheritance, polymorphism and composition
+<br>
 
 ## Web Scraping with Python
-Introduction to HTML
-XPaths and Selectors
-CSS Locators, Chaining, and Responses
-Spiders
+- [ ] Introduction to HTML
+- [ ] XPaths and Selectors
+- [ ] CSS Locators, Chaining, and Responses
+- [ ] Spiders
+<br>
 
 ## Introduction to Time Series Analysis in Python
-Correlation and Autocorrelation
-Some Simple Time Series
-Autoregressive (AR) Models
-Moving Average (MA) and ARMA Models
-Putting It All Together
-
-
+- [ ] Correlation and Autocorrelation
+- [ ] Some Simple Time Series
+- [ ] Autoregressive (AR) Models
+- [ ] Moving Average (MA) and ARMA Models
+- [ ] Putting It All Together
+<br>
 
 ## Introduction to PySpark
-Getting to know PySpark
-Manipulating data
-Getting started with machine learning pipelines
-Model tuning and selection
-
+- [ ] Getting to know PySpark
+- [ ] Manipulating data
+- [ ] Getting started with machine learning pipelines
+- [ ] Model tuning and selection
+<br>
 
 ## Big Data Fundamentals via PySpark
-Introduction to Big Data analysis with Spark
-Programming in PySpark RDD’s
-PySpark SQL & DataFrames
-Machine Learning with PySpark MLlib
-
+- [ ] Introduction to Big Data analysis with Spark
+- [ ] Programming in PySpark RDD’s
+- [ ] PySpark SQL & DataFrames
+- [ ] Machine Learning with PySpark MLlib
+<br>
 
 # SQL Courses
 <br>
