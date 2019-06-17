@@ -112,6 +112,11 @@
 - [ ] Window Functions
 <br>
 
+## Data-Driven Decision Making in SQL
+- [ ] Introduction to business intelligence for a online movie rental database
+- [ ] Decision Making with simpel SQL queries
+- [ ] Data Driven Decision Making with advanced SQL queries
+- [ ] Data Driven Decision Making with OLAP SQL queries
 
 # DataCamp Project
 <br>
