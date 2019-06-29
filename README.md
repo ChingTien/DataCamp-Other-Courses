@@ -16,6 +16,13 @@
 - [ ] Collaborating
 <br>
 
+## Analyzing Marketing Campaigns with pandas
+- [ ] Pandas
+- [ ] Exploratory Analysis & Summary Statistics
+- [ ] Conversion Attribution
+- [ ] Personalization A/B Test
+<br>
+
 ## Analyzing Police Activity with pandas
 - [ ] Preparing the data for analysis
 - [ ] Exploring the relationship between gender and policing
